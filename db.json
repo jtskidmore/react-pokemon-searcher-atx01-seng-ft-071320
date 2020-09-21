@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Luke Skywalker",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://vignette.wikia.nocookie.net/star-wars-canon-extended/images/2/2c/Luke_Sky7.jpg/revision/latest/scale-to-width-down/340?cb=20180123070942",
+        "back": "https://cdn.shopify.com/s/files/1/1425/8892/products/SID300187--Star-Wars-Luke-Skywalker-Ep5-PF-StatueD_2cba38b0-918e-40d7-8450-d422cc3ad225_1024x1024.jpg?v=1597846633"
+      },
+      "id": 151
     }
   ]
 }
